@@ -74,11 +74,19 @@ Your report should contain:
 
 - **Pre-lab Calculations**  
 
-- **Screenshots** of layout and results (including eye diagrams)  
+- **Screenshots** of layout and results (including eye diagrams) 
+
+![alt text](<Screenshot (29).png>)
+
+![alt text](<Screenshot (30).png>)
+
+![alt text](<Screenshot (31).png>)
+
+![alt text](<Screenshot (32).png>)
 
 - **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+  ![alt text](image.png)
+
 
 - **Written Summary** of observations and explanations of differences.  
+attenuation-limited fiber length based on the power budget equation has been Simulated and  verified. 
