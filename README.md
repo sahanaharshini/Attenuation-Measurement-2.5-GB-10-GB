@@ -85,8 +85,8 @@ Your report should contain:
 ![alt text](<Screenshot (32).png>)
 
 - **Summary Table** for each simulation:
-  ![alt text](image.png)
 
+  ![alt text](image.png)
 
 - **Written Summary** of observations and explanations of differences.  
 attenuation-limited fiber length based on the power budget equation has been Simulated and  verified. 
